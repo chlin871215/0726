@@ -1,0 +1,8 @@
+1.使用XAMPP建立mySQL伺服器(遇到問題:mySQL無法開啟，如附圖)
+2.XAMPP無法使用後改用byethost嘗試建立一些資料
+3.嘗試使用android app解析從網站上抓下來的JSON資料(還未學成)
+解析JSON資料教學影片:https://www.youtube.com/watch?v=zO_7WlZXN0c
+mySQL建立資料表影片:https://www.youtube.com/watch?v=6U03noiAb2g
+
+問題:想解決XAMPP無法開啟mySQL
+情況:按下start後亮綠燈過沒多久就自動shutdown，重新載過很多次也是
